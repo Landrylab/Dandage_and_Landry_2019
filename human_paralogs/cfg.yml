@@ -1,0 +1,41 @@
+{
+bagelsrcp: deps/bagel,
+
+depmapp: database/depmap/DepMap_Achilles_18Q3_public,
+dcsaggp: data_cs/dcsagg.pqt,
+dcslinp: data_cs/dcslin.pqt,
+dcsmapp: data_cs/dcsmap.pqt,
+
+dexpression_aggp: data_expression/dexpression_agg.pqt,
+dexpression_linp: data_expression/dexpression_lin.pqt,
+dexpression_mapp: data_expression/dexpression_map.pqt,
+dexpression_rawp: data_expression/dfpkmp_combo.pqt,
+dexpression_protein_rawp: data_expression_protein/dexpression_protein_raw.pqt,
+
+dgene_annot_statsp: data_annot/dgene_annot_stats.tsv,
+dgene_annotp: data_annot/dgene_annot.tsv,
+dgenep: data_annot/dgene.tsv,
+dgene_essetialp: data_annot/dgene_essetial.tsv,
+
+dparalog_mergep: data_paralogs/dparalog_merge.tsv,
+dgene_paralog_or_singletonp: data_annot/dgene_paralog_or_singleton.tsv,
+dparalog_annotp: data_paralogs/dparalog_annot.tsv,
+dparalog_heteromersp: data_paralogs/dparalog_heteromers.tsv,
+dparalogp: data_paralogs/dparalog.tsv,
+
+dparalog_annotp: data_paralogs/dparalog_annot.tsv,
+dparalog_annot_statsp: data_paralogs/dparalog_annot_stats.tsv,
+
+dparalog_expression_proteinp: data_expression_protein/dparalog_expression_protein.pqt,
+
+dmerge_agg_annotp: data_merged/dmerge_agg_annot.pqt,
+dmerge_linp: data_merged/dmerge_lin.pqt,
+dmerge_lin_annotp: data_merged/dmerge_lin_annot.pqt,
+dmerge_lin_annot_outerp: data_merged/dmerge_lin_annot_outer.pqt,
+dmerge_agg_annot_paralogp: data_merged/dmerge_agg_annot_paralog.tsv,
+dmerge_lin_annot_paralogp: data_merged/dmerge_lin_annot_paralog.pqt,
+dmerge_lin_annot_paralog_sorted_expressionp: data_merged/dmerge_lin_annot_paralog_sorted_expression.pqt,
+dmerge_lin_annot_paralog_sorted_expression_anap: data_merged/dmerge_lin_annot_paralog_sorted_expression_ana.pqt,
+
+dparalog_expression_corrp: data_mechanism/dparalog_expression_corr.pqt,
+}
